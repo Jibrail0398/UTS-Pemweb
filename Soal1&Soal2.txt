@@ -1,0 +1,74 @@
+Soal 1
+
+Apa yang dimaksud dengan framework pada pengembangan aplikasi?
+
+Jawab :
+
+Setelah saya mencoba menggunakan framework sebelumnya, saya akan mencoba menjelaskan 
+apa itu framework menggunakan istilah yang mudah. Framework adalah suatu struktur dan fungsi 
+yang telah dirancang oleh para pengembang framework tersebut dengan tujuan untuk 
+mempercepat dan mempermudah para pengembang lain di seluruh dunia dalam membuat dan 
+mengembangkan suatu aplikasi. Sederhananya framework membuat para pengembang tidak perlu menulis
+kode program dari awal melainkan menggunakan apa yang sudah tersedia didalam framework tersebut.
+Framework ditulis menggunakan bahasa yang berbeda-beda tergantung dari tujuan penggunaannya.
+Saat ini tersedia banyak framework yang dapat digunakan pengembang aplikasi,
+seperti laravel dan codeigniter untuk bahasa pemrograman php, 
+React dan Angular untuk bahasa pemrograman javascript, 
+Bootstrap dan Tailwind untuk CSS.
+
+Soal 2
+
+1. Sebutkan tema proyek yang sedang digarap!
+
+jawab :
+
+Saya bersama dengan kelompok saya mendapat tema proyek Apotek.
+
+2. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan
+jobdesk dari masing-masing anggota!
+
+jawab :
+
+- Muhammad Jibrail Natadilaga (22416255201274),saya dipercaya sebagai ketua pada proyek ini,
+jobdesk saya adalah untuk mengerjakan laporan dan Analisis Design Berorientasi 
+Objek.  
+- Bayu Saputra (22416255201285), bertugas untuk mengerjakan bagian sistem website yang tidak 
+dilihat oleh pengguna atau biasa disebut sebagai Backend.
+
+- Alya Khairunnisa (2241625521095), bertugas untuk mengerjakan tampilan-tampilan pada website
+atau yang biasa disebut sebagai frontend.
+
+3. Jelaskan permasalahan yang didapat setelah hasil wawancara dengan
+client, beserta hipotesa solusi yang kalian usung!
+
+Menurut keterangan dari Narasumber pemilik apotek, apotek miliknya belum memiliki sistem
+sehingga proses pencatatan transaksi dan pencatatan stok obat yang masuk dan keluar 
+masih ditulis secara manual di buku. Selain itu untuk pembelian obat, para pembeli masih harus langsung
+untuk datang ke apotek dan hanya pembeli yang mengenal pemilik apotek saja yang bisa memesan
+obat melalui Whatsapp pribadi.
+
+Berdasarkan keterangan narasumber kami berencana untuk membuat sistem website yang 
+berfungsi untuk:
+
+1. Membuat sistem yang terbagi menjadi dua hak akses, yaitu hak akses user untuk pembeli dan hak akses
+admin untuk pegawai apotek.
+
+2. Akun dengan hak akses user dapat digunakan untuk : 
+    a. Melihat,mencari,dan memfilter daftar stok obat yang tersedia
+    b. Membeli obat secara online
+
+3. Akun dengan hak akses admin dapat digunakan untuk:
+    a. Menginput stok jenis obat yang masuk obat-obatan beserta dengan tanggal kadaluarsanya
+    b. Melihat,mencari,dan memfilter daftar stok obat yang sudah diinputkan
+    c. Mengubah jumlah stok obat
+    d. Menghapus stok obat
+    e. Melihat rekap transaksi jual-beli obat-obatan
+
+4. Merekap transaksi secara otomatis
+
+
+
+
+
+
+
